@@ -1,0 +1,64 @@
+{
+  "options": [
+    {
+      "name": "luftdaten de",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "board": "ESP8266",
+          "revision": "ESP12",
+          "manifest": "https://raw.githubusercontent.com/AppSaloon/flasher.js/master/binaries/luftdaten_de.json",
+          "latest": true
+        }
+      ]
+    },
+    {
+      "name": "luftdaten bg",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "board": "ESP8266",
+          "revision": "ESP12",
+          "manifest": "https://raw.githubusercontent.com/AppSaloon/flasher.js/master/binaries/luftdaten_bg.json",
+          "latest": true
+        }
+      ]
+    },
+    {
+      "name": "luftdaten en",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "board": "ESP8266",
+          "revision": "ESP12",
+          "manifest": "https://raw.githubusercontent.com/AppSaloon/flasher.js/master/binaries/luftdaten_en.json",
+          "latest": true
+        }
+      ]
+    },
+    {
+      "name": "luftdaten es",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "board": "ESP8266",
+          "revision": "ESP12",
+          "manifest": "https://raw.githubusercontent.com/AppSaloon/flasher.js/master/binaries/luftdaten_es.json",
+          "latest": true
+        }
+      ]
+    },
+    {
+      "name": "luftdaten nl",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "board": "ESP8266",
+          "revision": "ESP12",
+          "manifest": "https://raw.githubusercontent.com/AppSaloon/flasher.js/master/binaries/luftdaten_nl.json",
+          "latest": true
+        }
+      ]
+    },
+  ]
+}

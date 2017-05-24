@@ -1,0 +1,14 @@
+{
+  "name": "luftdaten nl",
+  "version": "1.0.0",
+  "board": "ESP8266",
+  "revision": "ESP-12",
+  "description": "",
+  "download": "https://raw.githubusercontent.com/AppSaloon/flasher.js/master/binaries/latest_nl.bin",
+  "flash": [
+    {
+      "address": "0x00000",
+      "path": "latest_nl.bin"
+    }
+  ]
+}
